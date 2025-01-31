@@ -1,0 +1,29 @@
+# Node modules
+/node_modules
+
+# Build output
+/.next
+/out
+
+# Production
+/.vercel
+
+# Logs
+*.log
+
+# Dependency directories
+/node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
